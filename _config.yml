@@ -1,0 +1,11 @@
+title: CodingFirst-XML
+description: Unity package to initialize C# objects via XML.
+theme: minima
+markdown: kramdown
+highlighter: rouge
+
+# Define pages that should appear in the header navigation
+header_pages:
+  - index.md
+  - documentation.md
+  - examples.md
